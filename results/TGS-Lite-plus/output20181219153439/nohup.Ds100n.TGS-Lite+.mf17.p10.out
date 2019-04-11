@@ -1,0 +1,18 @@
+[1] "The output directory name is:"
+[1] "/home/saptarshi/R/R-3.5.1/projects/TGS-Lite/asset/output20181219153439"
+[1] ""
+
+Attaching package: ‘bnlearn’
+
+The following object is masked from ‘package:minet’:
+
+    aracne
+
+The following object is masked from ‘package:stats’:
+
+    sigma
+
+Loading required package: iterators
+Loading required package: parallel
+26.37user 0.59system 8:24.65elapsed 5%CPU (0avgtext+0avgdata 108156maxresident)k
+0inputs+2368outputs (0major+174345minor)pagefaults 0swaps

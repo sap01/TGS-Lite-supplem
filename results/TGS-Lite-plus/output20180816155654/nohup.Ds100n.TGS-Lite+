@@ -1,0 +1,43 @@
+[1] "The output directory name is:"
+[1] "/home/saptarshi/R/R-3.5.1/projects/TGS-Lite/asset/output20180816155654"
+[1] ""
+
+Attaching package: ‘bnlearn’
+
+The following object is masked from ‘package:minet’:
+
+    aracne
+
+The following object is masked from ‘package:stats’:
+
+    sigma
+
+Loading required package: iterators
+Loading required package: parallel
+Loading required package: bitops
+Loading required package: Matrix
+Loading required package: igraph
+
+Attaching package: ‘igraph’
+
+The following objects are masked from ‘package:bnlearn’:
+
+    compare, degree, path, subgraph
+
+The following objects are masked from ‘package:stats’:
+
+    decompose, spectrum
+
+The following object is masked from ‘package:base’:
+
+    union
+
+
+Attaching package: ‘bnstruct’
+
+The following objects are masked from ‘package:bnlearn’:
+
+    impute, read.bif, read.dsc, read.net, shd, write.dsc
+
+751.60user 0.99system 12:32.92elapsed 99%CPU (0avgtext+0avgdata 228352maxresident)k
+0inputs+3168outputs (0major+890331minor)pagefaults 0swaps

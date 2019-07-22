@@ -5,7 +5,7 @@ To reproduce the results of TGS-Lite and TGS-Lite+ given in the paper, you need 
 * **Step 2:** Execute the TGS-Lite and TGS-Lite+ algorithms ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#executing-the-tgs-lite-and-tgs-lite-algorithms-in-the-experimental-environment)).
 
 ## Installing R version 3.5.1 in the Experimental Environment
-In this section, the following steps are described:
+In this section, the following sub-steps are described:
 * Installing or compiling R ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#installing-or-compiling-r))
 * Installing the ‘packrat’ dependency management package for R ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#installing-the-packrat-dependency-management-package-for-r))
 
@@ -93,4 +93,52 @@ $ mkdir /home/saptarshi/R/R-3.5.1/projects
 ```
 
 ## Executing the TGS-Lite and TGS-Lite+ Algorithms in the Experimental Environment
-todo
+The R implementations of the TGS-Lite and TGS-Lite+ algorithms are saved as a R project tarball (https://github.com/sap01/TGS-Lite-supplem/blob/master/sourcecode/TGS-Lite-2019-04-15.tar.gz). Copy this file to '/home/saptarshi/R/R-3.5.1/projects':
+```
+$ mv TGS-Lite-2019-04-15.tar.gz /home/saptarshi/R/R-3.5.1/projects
+```
+After that, unbundle the project using 'packrat':
+```
+%% Go to the project directory
+$ cd /home/saptarshi/R/R-3.5.1/projects
+
+%% Open a R prompt
+$ R351
+```
+```r
+## Set your favourite CRAN repo, e.g.,
+## https://cran.rstudio.com/
+> options(repos=structure(c(CRAN="https://cran.rstudio.com/")))
+
+## Attach ’packrat’ package
+> library(packrat)
+
+## Unbundle the project inside the current directory
+> packrat::unbundle(’TGS-Lite-2019-04-15.tar.gz’, getwd())
+```
+Once unbundled, a new project directory will be created with name 'TGS-Lite'. Go inside the project directory:
+```
+%% Go to /home/saptarshi/R/R-3.5.1/projects/TGS-Lite
+$ cd TGS-Lite
+```
+Directory 'TGS-Lite' contains all required R scripts and two sub-directories: 'packrat' and 'asset'. The 'packrat' sub-directory is for internal management of 'packrat' and not to be interfered with. The 'asset' sub-directory is the place where the input and the output files are stored. Copy all the dataset files inside this sub-directory. For example, let us assume that the directory corresponding to https://github.com/aaiitg-grp/TGS/tree/master/datasets , in your local computer, is '/home/saptarshi/datasets'. Then copy all the files from that directory to 'TGS-Lite/asset':
+```
+$ scp /home/saptarshi/datasets/* asset
+```
+The driver R script is 'TGS-Lite/TGS.R'. It takes the user-defined input parameters in a JSON file format (http://www.json.org/). The JSON file must reside in the ‘asset’ sub-directory. ‘TGS.R’ can be executed with the following command:
+```
+%% Assuming ’TGS-Lite/asset/input.json’ contains the user-defined parameters.
+%% Note that only ’input.json’ is used instead of ’asset/input.json’. This
+%% is because ’TGS.R’ is programmed to search for the input JSON files in
+%% the ’asset’ sub-directory.
+%% The ’&’ symbol instructs the execution process to start in the background.
+$ nohup time /home/saptarshi/R/R-3.5.1/bin/Rscript TGS.R input.json &
+
+%% Prints the process ID
+[1] 8172
+```
+Since, the execution process is performed in the background, the bash command prompt can be used for other tasks. Once the execution is complete, a ‘Done’ message is automatically displayed in bash. However, if you wish to monitor the execution of the process, you may do so with the ‘top’ command as shown below:
+```
+%% Show details of the process with ID 8172
+$ top -p 8172
+```

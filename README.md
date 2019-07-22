@@ -6,8 +6,8 @@ To reproduce the results of TGS-Lite and TGS-Lite+ given in the paper, you need 
 
 ## Installing R version 3.5.1 in the Experimental Environment
 In this section, the following steps are described:
-* Installing or compiling R
-* Installing the ‘packrat’ dependency management package for R
+* Installing or compiling R ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#installing-or-compiling-r))
+* Installing the ‘packrat’ dependency management package for R ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#installing-the-packrat-dependency-management-package-for-r))
 
 ### Installing or Compiling R
 The experimental environment uses R version 3.5.1 (hereafter, R-3.5.1). Therefore, it is expected that any R version, same or higher than that, should suffice. For R-3.5.1 installation in Windows or macOS, please consult the following official manuals, respectively.

@@ -1,8 +1,8 @@
 # Supplementary Files for the TGS-Lite Paper
 
-To reproduce the results of TGS-Lite and TGS-Lite+ given in the paper, you need to: 
-* **Step 1:** install R version 3.5.1 in your experimental environment ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#installing-r-version-351-in-the-experimental-environment))
-* **Step 2:** execute TGS-Lite and TGS-Lite+
+To reproduce the results of TGS-Lite and TGS-Lite+ given in the paper, you need to follow the steps mentioned below. 
+* **Step 1:** Install R version 3.5.1 in your experimental environment ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#installing-r-version-351-in-the-experimental-environment))
+* **Step 2:** Execute the TGS-Lite and TGS-Lite+ algorithms ([here](https://github.com/sap01/TGS-Lite-supplem/blob/master/README.md#executing-the-tgs-lite-and-tgs-lite-algorithms-in-the-experimental-environment)).
 
 ## Installing R version 3.5.1 in the Experimental Environment
 In this section, the following steps are described:

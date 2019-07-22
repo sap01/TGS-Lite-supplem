@@ -28,7 +28,7 @@ $ ./compileR351.sh
 ```
 The execution may take a few minutes to complete. What to do if the execution is successful and what to do if it fails, are described in the following two paragraphs, respectively.
 
-**If ‘compileR351.sh’ Completes Execution Successfully:** If ‘compileR332.sh’ completes execution successfully, it builds a compiled version of R-3.5.1 inside the given directory. This specific compilation can now be invoked from bash using the following command: (basically, append ‘/bin/R’ to the compilation path)
+**If ‘compileR351.sh’ Completes Execution Successfully:** If 'compileR351.sh' completes execution successfully, it builds a compiled version of R-3.5.1 inside the given directory. This specific compilation can now be invoked from bash using the following command: (basically, append ‘/bin/R’ to the compilation path)
 ```
 $ /home/saptarshi/R/R-3.5.1/bin/R
 
@@ -61,6 +61,7 @@ For executing any R script with R-3.5.1, please use the following command in bas
 ```
 $ /home/saptarshi/R-3.5.1/bin/Rscript path/to/script/script_to_run.R
 ```
+**If ‘compileR531.sh’ Fails:** If 'compileR351.sh' fails (e.g. 'configure: error'), the reason behind the failure is that the OS does not have some of the required dependencies. Resolutions of a number of possible errors are discussed at: http://pj.freefaculty.org/blog/?p=315 ; if required, please find its offline PDF version at: https://github.com/sap01/TGS-Lite-supplem/blob/master/sourcecode/building-r-devel-PJ.pdf . Source tarballs of most of the dependency packages are stored at: http://r.research.att.com/src/ . Also the ‘Installing R under Unix-alikes’ official manual can be consulted at: https://cran.r-project.org/doc/manuals/r-release/R-admin.html#Installing-R-under-Unix_002dalikes .
 
 ### Installing the ‘packrat’ Dependency Management Package for R
 todo

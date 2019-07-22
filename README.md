@@ -1,6 +1,8 @@
 # Supplementary Files for the TGS-Lite Paper
 
-To run TGS-Lite, R language version 3.5.1 is used. 
+To reproduce the results of TGS-Lite and TGS-Lite+ given in the paper, you need to: 
+* **Step 1:** install R version 3.5.1 in your experimental environment
+* **Step 2:** execute TGS-Lite and TGS-Lite+
 
 ## Installing R version 3.5.1 in the Experimental Environment
 In this section, the following steps are described:
@@ -61,4 +63,7 @@ $ /home/saptarshi/R-3.5.1/bin/Rscript path/to/script/script_to_run.R
 ```
 
 ### Installing the ‘packrat’ Dependency Management Package for R
+todo
+
+## Executing the TGS-Lite and TGS-Lite+ Algorithms in the Experimental Environment
 todo

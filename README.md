@@ -63,8 +63,34 @@ $ /home/saptarshi/R-3.5.1/bin/Rscript path/to/script/script_to_run.R
 ```
 **If ‘compileR531.sh’ Fails:** If 'compileR351.sh' fails (e.g. 'configure: error'), the reason behind the failure is that the OS does not have some of the required dependencies. Resolutions of a number of possible errors are discussed at: http://pj.freefaculty.org/blog/?p=315 ; if required, please find its offline PDF version at: https://github.com/sap01/TGS-Lite-supplem/blob/master/sourcecode/building-r-devel-PJ.pdf . Source tarballs of most of the dependency packages are stored at: http://r.research.att.com/src/ . Also the ‘Installing R under Unix-alikes’ official manual can be consulted at: https://cran.r-project.org/doc/manuals/r-release/R-admin.html#Installing-R-under-Unix_002dalikes .
 
-### Installing the ‘packrat’ Dependency Management Package for R
-todo
+### Installing the 'packrat' Dependency Management Package for R
+Once R is installed, the next step is to install the ‘packrat’ package (https://CRAN.R-project.org/package=packrat). It provides a dependency management system for the algorithmic implementations. In other words, it automatically downloads and installs the required packages with the required versions when the implementations of the TGS-Lite and TGS-Lite+ algorithms are being installed.
+In the experimental environment, ‘packrat’ package version 0.4.9-3 is used. Therefore, it is expected that installing the same or higher version would be sufficient.
+In the experimental environment, a specific directory, namely 'src downloaded packages' is created to download required external packages, like - 'packrat'. Then the latest version of ‘packrat’ (version 0.4.9-3 at that time) is downloaded inside it and installed to the 'library' directory. This whole process is done through the following commands:
+
+```
+%% Go to the R compilation’s home directory
+$ cd /home/saptarshi/R/R-3.5.1
+
+%% Create a directory for downloading external R packages
+$ mkdir src_downloaded_packages
+
+%% Open a R session
+$ R351
+```
+```r
+## Download the latest version of the ’packrat’ package
+## from ’https://cloud.r-project.org/’
+## to ’/home/saptarshi/R/R-3.5.1/src_downloaded_packages’
+## and install it inside ’/home/saptarshi/R/R-3.5.1/library’.
+> install.packages(’packrat’, ’/home/saptarshi/R/R-3.5.1/library’,
+dependencies = TRUE, repos = ’https://cloud.r-project.org/’,
+destdir = ’/home/saptarshi/R/R-3.5.1/src_downloaded_packages’)
+```
+Finally, a directory with the name 'projects' is created where the algorithmic implementations would be installed.
+```
+$ mkdir /home/saptarshi/R/R-3.5.1/projects
+```
 
 ## Executing the TGS-Lite and TGS-Lite+ Algorithms in the Experimental Environment
 todo

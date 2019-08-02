@@ -1,0 +1,7 @@
+{ 
+   "input.data.filename": "DmLc3P.RData",
+   "num.timepts": 3,
+   "num.time.series": 6,
+   "info.sharing.prior": "bino_hard",
+   "num.iters": 10000
+}

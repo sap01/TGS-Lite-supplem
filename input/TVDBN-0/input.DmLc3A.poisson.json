@@ -1,0 +1,7 @@
+{ 
+   "input.data.filename": "DmLc3A.RData",
+   "num.timepts": 2,
+   "num.time.series": 4,
+   "info.sharing.prior": "poisson",
+   "num.iters": 10000
+}

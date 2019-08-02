@@ -1,0 +1,10 @@
+{ 
+   "input.data.filename": "DmLc3L.RData",
+   "num.timepts": 2,
+   "num.time.series": 5,
+   "true.net.filename": "",
+   "max.fanin": null,
+   "num.itns": 50000,
+   "max.num.cp": 15,
+   "edge.post.prob.threshold": 0.5
+}

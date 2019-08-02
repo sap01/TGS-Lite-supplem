@@ -1,0 +1,33 @@
+Loading required package: corpcor
+Loading required package: MASS
+[1] "The output directory name is:"
+[1] "/home/user/R/R-3.5.1/projects/repoedisonr/asset/output20190731133429"
+[1] ""
+Error: cannot allocate vector of size 494.3 Mb
+Execution halted
+Warning message:
+system call failed: Cannot allocate memory 
+Command exited with non-zero status 1
+	Command being timed: "/home/user/R/R-3.5.1/bin/Rscript EDISON.R input.DmLc3L.bino_soft.json"
+	User time (seconds): 9.54
+	System time (seconds): 58.95
+	Percent of CPU this job got: 11%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 9:43.13
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 31688548
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 7778
+	Minor (reclaiming a frame) page faults: 15523522
+	Voluntary context switches: 23612
+	Involuntary context switches: 48089
+	Swaps: 0
+	File system inputs: 170784
+	File system outputs: 24
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1

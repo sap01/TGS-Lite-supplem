@@ -1,0 +1,1783 @@
+[1] "===================================================================="
+[1] "Starting  ARTIVAnet  procedure"
+[1] "===================================================================="
+[1] "===================================================================="
+[1] "GENERAL INFORMATION"
+[1] " *** Number of different time point measurements: 3"
+[1] " *** Number of repeated measurements: 3528"
+[1] " *** Number of potential parent gene(s): 588"
+[1] "===================================================================="
+[1] "ARTIVA PARAMETERS"
+[1] " **** Time delay considered in the auto-regressive process: 1"
+[1] " **** Minimal length to define a temporal segment: 2 time points"
+[1] " **** Maximal number of changepoints (CPs): 15"
+[1] " **** Number of CPs at the algorithm initialization: 3"
+[1] " **** Number of iterations: 50000"
+[1] " **** Is PSRF factor calculated? FALSE"
+[1] "===================================================================="
+[1] " *** Name of the analyzed target gene: Su.z.12"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: emp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG2678"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: crc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: pros"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: neur"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Rab5"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Rab7"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Mmp2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: W"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bowl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fd59A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: e"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ben"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: rdo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: lin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tra"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tra2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cathD"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: d"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: lva"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: pbl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG33205"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: da"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cactin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: hpo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Sema.2a"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Eip74EF"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: eg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Arc42"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: toy"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Galpha73B"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: RhoGAPp190"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: MED11"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cher"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: BicD"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: MYPT.75D"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mus304"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CdsA"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: btl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Cyt.c.d"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tok"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ttk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: tamo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG6416"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: flfl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Pvr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: kay"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Jra"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: msk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tll"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Tm1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: srp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Btk29A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: fred"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Src64B"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Mmp1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sll"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Hmgs"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: caps"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Su.var.2.10"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CycB"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: spir"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: spn.A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ptpmeg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: qua"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: msn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ena"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: spen"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: emc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tsh"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Dat"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Lac"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dup"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG3075"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Akap200"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG18369"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bnl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sec23"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pde8"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Arp66B"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cos"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Borr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: X140up"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Dhc64C"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Not1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG9520"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bib"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: mib1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cas"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Abi"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: betaTub56D"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: nej"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dlg1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Lcp65Ag1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Es2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: MED24"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Vhl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: tral"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sns"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mbl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sav"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: lola"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: robo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG32486"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: santa.maria"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: stumps"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: abd.A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dock"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Lar"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: l.1.G0289"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Abl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Syb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dome"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ofs"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: MED4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: scrib"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: siz"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cbx"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dsx"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Sb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sax"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: foxo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Cyp1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: brm"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: rad50"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: chico"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cp309"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: hdc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Axn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Apc2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: PhKgamma"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: eya"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sktl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sqd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Akt1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: scyl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cnk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG8149"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG34379"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Yp1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: yrt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bap"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: tud"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ct"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tup"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: G.ialpha65A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: knrl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pkn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Sry.delta"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Alh"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: pnut"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: phyl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG17739"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: B4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG2681"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: tow"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: hkl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sina"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ry"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: rux"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: boss"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Mkp3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: inaC"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sno"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: jagn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dpn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: wrapper"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ca.alpha1D"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: E2f"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: l.2.efl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cnc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Atg5"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: acj6"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Trl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: d4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG16719"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CadN"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: gro"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sec13"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: klar"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Rack1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Sobp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ash1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: inv"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: shot"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Oseg1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Spred"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: puc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Atg6"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG3829"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sle"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Cka"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: form3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Pk61C"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pcaf"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sbb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ef1gamma"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: FKBP59"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Eip71CD"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: xmas.2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ppan"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Iswi"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ine"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Tina.1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: bon"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pot"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: chic"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Hem"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: chif"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: S6kII"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: wal"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: wls"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Ddx1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Sulf1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG3987"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Abd.B"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Uba1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: bigmax"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: NAT1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: wupA"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Vps28"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: G.oalpha47A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: G.salpha60A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dsf"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Khc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG10641"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Alk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ey"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: noc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ix"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Optix"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sdt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Sxl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: rib"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sas"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Scgdelta"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sw"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: fal"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ea"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ice"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cic"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dok"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: rhea"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Glycogenin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: chp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dlic2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pk92B"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pak"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Lim1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG34450"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Su.H."
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG12301"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: lilli"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: toe"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: qkr58E.3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: up"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: hep"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dap160"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: l.2.gd1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: hkb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: beta4GalNAcTA"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Mer"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Mtl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: spin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mfas"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: frc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Krn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mam"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: brk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ark"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: mmy"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mri"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Crk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ssh"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fs.1.K10"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Psn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG9509"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CkIIalpha"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: car"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: capu"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cact"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Patj"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dpp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: xl6"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dally"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pi3K92E"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: E.bx."
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: emb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CtBP"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dad"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: amx"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Ank2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG34417"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: scra"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dsd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Ephrin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Appl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sty"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: RhoL"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: twi"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tub"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ftz.f1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: wg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: LanB1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: LanA"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: LanB2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Chi"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: nmo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ics"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: oaf"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dco"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dys"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: drm"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: RpL30"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: how"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dei"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG1244"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Chc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Orct"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sgl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG17221"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: gkt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: by"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pka.C3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: vlc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: fl.2.d"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Nf1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG6372"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Rho1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: kuk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: l.2.gl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ald"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: jumu"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: glu"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fs.2.ltoPP43"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CycE"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG8247"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CSN4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: X18w"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bs"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Nrt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: mask"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: gl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Cp1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ex"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: jing"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: shrb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: raw"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG9445"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: gbb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Hs2st"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sls"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: kis"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: run"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pnr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pnt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Fmr1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Myo31DF"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ALiX"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: sgg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mbt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Sin3A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dnc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: morgue"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Set2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: exu"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: odd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: esc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dah"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Taf4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Jafrac2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Fas3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: wus"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Wnt5"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sprt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: jar"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: v"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Snap"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: vap"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Src42A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: esg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: zfh1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: alien"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: peb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: par.1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: hyd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: trc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Eip63E"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ird5"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: bl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Syx1A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: drl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: rg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: apt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: svr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sar1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Tab2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: zfh2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dj"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: tum"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: yellow.f"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: p53"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ImpE3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cbt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Sur"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Rpd3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG4945"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: eve"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Stat92E"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ken"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dpld"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG1942"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Dcp.1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Tak1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fw"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: tutl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: bhr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ash2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: mth"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: numb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: X14.3.3zeta"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Lis.1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: alpha.Spec"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: twf"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Bap60"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: drk"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Nrx.IV"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: trn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: chn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: RhoGAP68F"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CycA"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: LIMK1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Rca1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: pelo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG32082"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pyd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Mlc1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: meso18E"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: rdx"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: t"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: alph"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: elav"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: shg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: shn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: th"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: lmd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: enok"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: loco"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: disco"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Gtp.bp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: crol"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Sema.1b"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dom"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Aph.4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Hr78"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: kuz"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: mbo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: par.6"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ast"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG9769"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Rbp9"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: hyx"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sced"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ninaE"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dscam"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Eip63F.1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: lic"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Idgf5"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Idgf4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Mbs"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: opa"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: lwr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: wee"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Cks30A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fax"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bun"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bnb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Apc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ytr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: blow"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Hph"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: fs.1.M3"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: chinmo"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG13850"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: E2f2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: eIF.4a"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: stil"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Sh"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: l.3.mbt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: osa"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Cip4"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: kkv"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pcm"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Hr46"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dib"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Idgf1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: SelD"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: eff"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: glec"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: E.z."
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Pink1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: caup"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: pav"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: PebIII"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: flw"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: aft"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fog"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ksr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Caf1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: grp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Ggamma1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: cort"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: brat"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: NetB"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Arc.p34"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: fru"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG12896"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Rheb"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: bt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dmt"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG14995"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tou"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Mhc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Msp.300"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Pgant35A"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pen"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tld"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Tl"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tkv"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG4500"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG8216"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: snf"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: CG9104"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sn"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: cta"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: eIF.4E"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: ecd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: EcR"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: LCBP1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Antp"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Myo61F"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Moe"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Traf6"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: ap"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: msi"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pop2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: baz"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: bcd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Atpalpha"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: pdm2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: tin"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Idgf2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: slam"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: trio"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: qm"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: uzip"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: N"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: CG17470"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: SelG"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Cct1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Atx2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: her"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: pio"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: chrw"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: prod"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: prd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Prm"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: thr"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: stg"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: l.2.37Cc"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Mef2"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: sli"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: dec.1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: dos"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Dif"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Hs6st"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: asf1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Mitf"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] " *** Name of the analyzed target gene: Pvf1"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: Dredd"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[E[poskstar - 1]]:(Mphase[estar] - 1): argument of length 0>
+[1] " *** Name of the analyzed target gene: poe"
+[1] "Running 50000 iterations:"
+<simpleError in Mphase[estar]:(Mphase[E[poskstar + 1]] - 1): NA/NaN argument>
+[1] "Calculation of graphs representations..."
+[1] "WARNING : The coefficients for edges with posterior probability below Inf were not estimated (grey edges) in the network to be plotted."
